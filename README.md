@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&color=70A5FD&center=true&vCenter=true&multiline=true&lines=Programador+Fullstack"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&color=70A5FD&center=true&vCenter=true&multiline=true&lines=Programador+Junior"></a>
 </p>
 
 <div align="center">
