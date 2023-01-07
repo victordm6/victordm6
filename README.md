@@ -1,8 +1,3 @@
-<h1 align="center">
-  Olá, eu sou o Victor!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&color=70A5FD&center=true&vCenter=true&multiline=true&lines=Front-End+Junior"></a>
 </p>
